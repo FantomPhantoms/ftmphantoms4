@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d125C4d175098B665662AB0881E22560751Da2E",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0d125c4d175098b665662ab0881e22560751da2e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Fantom Phantoms",
+  "SYMBOL": "FTMPHTMS",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fantom-phantoms-v2",
+  "SHOW_BACKGROUND": true
+}
